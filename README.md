@@ -46,3 +46,28 @@ Makeup slightly outperformed Haircare during peak months
 
 📈 Dashboard Visual 
 
+📁 Project Structure
+Code
+data/                Filtered dataset  
+tableau/             Dashboard screenshots  
+report/              Full project report  
+presentation/        Presentation script  
+README.md            Project documentation  
+
+-------------------------------------------------------------
+
+📌 Why This Matters
+This project demonstrates how structured analytics can reveal:
+
+- Seasonal demand patterns
+
+- Promotional effectiveness
+
+- Category performance
+
+- Pricing behavior
+
+- Data quality considerations
+
+These insights directly support merchandising, pricing, and marketing decisions.
+
