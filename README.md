@@ -1,0 +1,1 @@
+# Amazon-E-Commerce-Beauty-Trend-Analysis
