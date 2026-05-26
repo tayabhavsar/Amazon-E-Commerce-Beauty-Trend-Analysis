@@ -1,5 +1,6 @@
 
 📦 Amazon E‑Commerce Beauty Trend Analysis (Jan–Jun 2024)
+
 Analyzing purchase volume, discount strategy, and pricing behavior across 125K+ Amazon beauty transactions.
 ------------------------------------------------------------------------------------------------------------
 
