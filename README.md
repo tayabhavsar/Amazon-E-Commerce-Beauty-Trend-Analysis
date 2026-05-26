@@ -2,6 +2,8 @@
 
 Analyzing purchase volume, discount strategy, and pricing behavior across **125K+ Amazon beauty transactions**.
 
+https://github.com/tayabhavsar/Amazon-E-Commerce-Beauty-Trend-Analysis/blob/main/Tableau/Amazon%20E-Commerce%20Beauty%20Trends%20(Jan-Jun%202024).png
+
 ---
 
 ## 📊 Project Overview
