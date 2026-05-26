@@ -36,7 +36,7 @@ The goal was to build a clean, business‑focused **Tableau dashboard** and extr
 ---
 
 ## 📈 Dashboard Visual
-*(Insert dashboard screenshots here)*
+https://public.tableau.com/app/profile/taya.bhavsar/viz/Amazon_E-Commerce_Beauty/AmazonE-CommerceBeautyTrendsJan-Jun2024?publish=yes 
 ---
 
 ## 📌 Why This Matters
